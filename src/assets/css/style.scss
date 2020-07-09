@@ -1,0 +1,25 @@
+@import "variables";
+
+
+div .c-divider {
+
+  &-xs {
+    margin: 5px;
+  }
+
+  &-sm {
+    margin: 10px;
+  }
+
+  &-def {
+    margin: 25px;
+  }
+
+  &-lg {
+    margin: 35px;
+  }
+
+  &-xl {
+    margin: 50px;
+  }
+}
